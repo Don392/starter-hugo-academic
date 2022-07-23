@@ -35,8 +35,8 @@ content:
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '32.1052'
+    longitude: '118.9103'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
