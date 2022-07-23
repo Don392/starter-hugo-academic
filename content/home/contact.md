@@ -35,8 +35,8 @@ content:
     country: P.R.China
     country_code: CN
   coordinates:
-    latitude: '32.1052'
-    longitude: '118.9103'
+    latitude: '32.11699',
+    longitude: '118.91112'
   contact_links:
     - icon: twitter
       icon_pack: fab
